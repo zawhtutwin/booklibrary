@@ -14,7 +14,7 @@
 </head>
 <body>
 	<span id="header_text"></span>
-	<table id="example" data-toggle="table" class="display table table-bordered" data-url="user/hello">
+	<table id="example" data-toggle="table" class="display table table-bordered" data-url="http://localhost:8080/book_library/user/hello">
 		<thead>
         <tr>
             <th data-field="title">Title</th>
